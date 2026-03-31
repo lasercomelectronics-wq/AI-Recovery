@@ -1,0 +1,27 @@
+{
+  "fecha": "2026-03-31T00:10:07.232157",
+  "modo": "video",
+  "origen": "C:\\Users\\ameri\\Downloads\\AI\\AI\\test_mock.img",
+  "destino": "C:\\Users\\ameri\\Downloads\\AI\\AI\\test_output8",
+  "duracion_min": 0.45036176666666666,
+  "bloques_procesados": 2,
+  "incidentes": [],
+  "videos_recuperados": 0,
+  "phase_metrics": {
+    "hits_total": 0,
+    "live_recon_snapshots": 0
+  },
+  "signature_registry": {
+    "total": 257,
+    "families": {
+      "mp4": 152,
+      "avi": 20,
+      "wmv": 12,
+      "flv": 6,
+      "mpeg": 43,
+      "ts": 7,
+      "3gp": 14,
+      "mkv": 3
+    }
+  }
+}

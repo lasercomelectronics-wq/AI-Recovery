@@ -1,0 +1,653 @@
+{
+  "version": "2026.03.30",
+  "signatures": [
+    {
+      "id": "mp4_brand_isom",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "isom",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_iso2",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "iso2",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_iso3",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "iso3",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_iso4",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "iso4",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_iso5",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "iso5",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_iso6",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "iso6",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_avc1",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "avc1",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_hvc1",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "hvc1",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_hev1",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "hev1",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_mp41",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "mp41",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_mp42",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "mp42",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_dash",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "dash",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_mif1",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "mif1",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_msdh",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "msdh",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_msix",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "msix",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_cmfc",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "cmfc",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_cmfs",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "cmfs",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_f4v",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "f4v ",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_f4a",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "f4a ",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_f4p",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "f4p ",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_qt",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "qt  ",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_3gp4",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "3gp4",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_3gp5",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "3gp5",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_3gp6",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "3gp6",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_3ge6",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "3ge6",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_3gg6",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "3gg6",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_M4V",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "M4V ",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_M4A",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "M4A ",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_MSNV",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "MSNV",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_ndas",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "ndas",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_NDSC",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "NDSC",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_NDSH",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "NDSH",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_NDSM",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "NDSM",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_NDSP",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "NDSP",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_NDSS",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "NDSS",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_NDXC",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "NDXC",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_NDXH",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "NDXH",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_NDXM",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "NDXM",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_NDXP",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "NDXP",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_brand_NDXS",
+      "family": "mp4",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "NDXS",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "mp4_atom_ftyp",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "ftyp",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_moov",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "moov",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_mdat",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "mdat",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_free",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "free",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_skip",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "skip",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_wide",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "wide",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_uuid",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "uuid",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_moof",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "moof",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_traf",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "traf",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_mvhd",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "mvhd",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_trak",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "trak",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_mdia",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "mdia",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_stbl",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "stbl",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_stsd",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "stsd",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_stts",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "stts",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_ctts",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "ctts",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_stsc",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "stsc",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_stsz",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "stsz",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_stco",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "stco",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "mp4_atom_co64",
+      "family": "mp4",
+      "kind": "atom",
+      "pattern_ascii": "co64",
+      "offset": 4,
+      "confidence": 0.8
+    },
+    {
+      "id": "avi_riff",
+      "family": "avi",
+      "kind": "riff",
+      "pattern_hex": "52494646",
+      "offset": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "avi_formtype",
+      "family": "avi",
+      "kind": "riff_type",
+      "pattern_ascii": "AVI ",
+      "offset": 8,
+      "confidence": 0.9
+    },
+    {
+      "id": "riff_list",
+      "family": "avi",
+      "kind": "chunk",
+      "pattern_ascii": "LIST",
+      "offset": null,
+      "confidence": 0.7
+    },
+    {
+      "id": "riff_movi",
+      "family": "avi",
+      "kind": "chunk",
+      "pattern_ascii": "movi",
+      "offset": null,
+      "confidence": 0.7
+    },
+    {
+      "id": "riff_idx1",
+      "family": "avi",
+      "kind": "chunk",
+      "pattern_ascii": "idx1",
+      "offset": null,
+      "confidence": 0.7
+    },
+    {
+      "id": "asf_guid_header",
+      "family": "wmv",
+      "kind": "guid",
+      "pattern_hex": "3026B2758E66CF11A6D900AA0062CE6C",
+      "offset": 0,
+      "confidence": 0.95
+    },
+    {
+      "id": "asf_guid_data",
+      "family": "wmv",
+      "kind": "guid",
+      "pattern_hex": "3626B2758E66CF11A6D900AA0062CE6C",
+      "offset": null,
+      "confidence": 0.85
+    },
+    {
+      "id": "asf_guid_file_properties",
+      "family": "wmv",
+      "kind": "guid",
+      "pattern_hex": "A1DCAB8C47A9CF118EE400C00C205365",
+      "offset": null,
+      "confidence": 0.85
+    },
+    {
+      "id": "flv_header",
+      "family": "flv",
+      "kind": "header",
+      "pattern_hex": "464C5601",
+      "offset": 0,
+      "confidence": 0.95
+    },
+    {
+      "id": "flv_header_v0",
+      "family": "flv",
+      "kind": "header",
+      "pattern_hex": "464C5600",
+      "offset": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "mpeg_ps_pack",
+      "family": "mpeg",
+      "kind": "start_code",
+      "pattern_hex": "000001BA",
+      "offset": null,
+      "confidence": 0.9
+    },
+    {
+      "id": "mpeg_seq_header",
+      "family": "mpeg",
+      "kind": "start_code",
+      "pattern_hex": "000001B3",
+      "offset": null,
+      "confidence": 0.9
+    },
+    {
+      "id": "mpeg_pes_private",
+      "family": "mpeg",
+      "kind": "start_code",
+      "pattern_hex": "000001BD",
+      "offset": null,
+      "confidence": 0.7
+    },
+    {
+      "id": "mpeg_pes_audio",
+      "family": "mpeg",
+      "kind": "start_code",
+      "pattern_hex": "000001C0",
+      "offset": null,
+      "confidence": 0.7
+    },
+    {
+      "id": "mpeg_pes_video",
+      "family": "mpeg",
+      "kind": "start_code",
+      "pattern_hex": "000001E0",
+      "offset": null,
+      "confidence": 0.7
+    },
+    {
+      "id": "mpeg_ts_sync",
+      "family": "ts",
+      "kind": "sync",
+      "pattern_hex": "47",
+      "offset": 0,
+      "confidence": 0.8
+    },
+    {
+      "id": "mpeg_ts_pat_hint",
+      "family": "ts",
+      "kind": "pat_hint",
+      "pattern_hex": "47000010",
+      "offset": null,
+      "confidence": 0.75
+    },
+    {
+      "id": "3gp_brand_3gp4",
+      "family": "3gp",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "3gp4",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "3gp_brand_3gp5",
+      "family": "3gp",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "3gp5",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "3gp_brand_3gp6",
+      "family": "3gp",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "3gp6",
+      "offset": 8,
+      "confidence": 0.86
+    },
+    {
+      "id": "3gp_brand_3gr6",
+      "family": "3gp",
+      "kind": "ftyp_brand",
+      "pattern_ascii": "3gr6",
+      "offset": 8,
+      "confidence": 0.86
+    }
+  ]
+}
